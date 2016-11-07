@@ -1,0 +1,64 @@
+
+.header {
+	
+	margin-top: 30px;
+	font-family: Playfair Display;
+	color: #626262;
+	font-size: 14px;
+	 position: relative;
+	
+		}
+.header__nav{
+	float: right;
+	text-decoration: none;
+	display: inline-block;
+	margin: right;
+
+	}
+.logo {
+	position: absolute;
+	float: left;
+ }
+.content{ position: relative;
+	max-width: 1062px;
+	margin: 0 auto;
+	font-family: Playfair Display;
+	color: #626262;
+	font-size: 14px;
+	}
+
+.content__block1 {
+	position: relative;
+	margin-top: 60px;
+	max-width: 661px;
+	float: left;
+		}
+.content__block2 {
+	position: relative;
+	 margin: auto 0 0 auto;
+	max-width: 284px;
+	float: right;
+		}
+.content__block1__color {
+	font-family: Ubuntu;
+	color: #b4ad9e;
+		}
+		.content__block1__size {
+	
+	font-size: 30px;
+		}
+.footer{
+	position: relative;
+	float: center;
+	width: 661px;
+	color: black;
+}
+.content__block1-footer{
+	margin: auto 0 0 auto;
+	float: right;
+}
+.content__block1-footer__size-and-color{
+	font-family: Ubuntu;
+	color: #b4ad9e;
+	size: 13px;
+}
