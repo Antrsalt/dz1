@@ -1,0 +1,150 @@
+
+.header {
+	height: 210px;
+	max-width: 956px;
+	margin: 0 auto;
+	position: absolute;  
+	top: 90px;
+	left: 0;
+	bottom: 80px;
+	right: 0;
+		}
+		
+.header__nav{
+	 
+	text-transform: uppercase;
+	float: right;
+	text-decoration: none;
+	display: inline-block;
+	margin: right;
+	font-size: 16px;
+	font-family: Lato;
+	color: black;
+	
+	}
+
+.content{ 
+margin: 100px 100px 100px 100px;
+	top: 90px;
+	position: absolute;
+	/*box-shadow: 0 0 10px 5px rgba(221, 221, 221, 1); */
+	max-width: 956px;
+	margin: 0 auto;
+	font-family: Lato;
+	font-size: 17px;
+	line-height: 1.5;
+	left: 0;
+	right: 0;
+	}
+.article{ 
+
+	background-color:#ffffff;
+	box-shadow: 0 0 10px 5px rgba(221, 221, 221, 1);
+	height: 816px;
+	}
+.article1{ 
+	background-color:#ffffff;
+	box-shadow: 0 0 10px 5px rgba(221, 221, 221, 1);
+	
+	}
+.article1__h1{
+	margin: 0 100px 10px 100px;
+}
+.article1__h1__size{
+	font-size: 40px;
+}
+.article1__h1__size2{
+	font-size: 20px;
+	color: gray;
+}
+.article1__h1__size-and-italic{
+	font-size: 25px;
+	color: gray;
+}
+.article__block2
+	{position: relative;
+	
+	margin: 100px 100px 100px 100px;
+	color: black;
+	font-size: 17px;
+	}
+.article__block__size{
+	font-size: 40px;
+}
+.form{
+	background: #f7f9fc;
+	width: 365px;
+	height: 55px;
+	font-size: 17px;
+}
+.form2{
+	background: #f7f9fc;
+	width: 365px;
+	height: 55px;
+	float: right;
+	font-size: 17px;
+}
+.form4{
+	background: #f7f9fc;
+	width: 755px;
+	height: 146px;
+	float: right;
+	font-size: 17px;
+}
+.form3{ background: #f7f9fc;
+	width: 755px;
+	height: 55px;
+	float: right;
+	font-size: 17px;
+}
+
+.button {
+	float: right;
+  text-transform: capitalize;
+  font: 18px sans-serif;
+  padding: 10px 20px;
+  border: none; 
+  outline: none;
+  background: #5C6BC0;
+  color: #FFF;
+  cursor: pointer;
+  transition: padding 150ms linear;
+}
+.button:hover {
+  background: #6B78C5;
+  padding: 12px 22px;
+}
+.button:active {
+  background: #525FAB;
+}
+.leftfoto{
+float: left;
+margin: 4px 10px 2px 0px;
+}
+.readMore {
+font-size: 21px;
+color: #5c6bc0;
+text-transform: uppercase;
+font-family: Lato;
+}
+
+.footer {
+ margin-top: 67px;
+background-color: #5c6bc0;
+text-align: center;
+}
+ 
+
+/*.
+
+}
+.content__block1-footer{
+	margin: auto 0 0 auto;
+	float: right;
+}
+.content__block1-footer__size-and-color{
+	font-family: Ubuntu;
+	color: #b4ad9e;
+	size: 13px;
+}
+*/
