@@ -1,0 +1,25 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+	"browser-sync": "^2.17.6",
+    "gulp-concat": "^2.6.1",
+    "gulp-nunjucks": "^2.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+ 
+  },
+  "author": "Ekaterina Yurina",
+  "license": "ISC",
+  "bugs": {
+
+  },
+  "homepage": "https://https://github.com/Antrsalt"
+}
